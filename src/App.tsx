@@ -1,3 +1,4 @@
+// @ts-nocheck
 // Aplikasi Akunting Ruang Belajar — versi Online (Multi-user)
 // Stack: React (Vite) + Supabase (Postgres + Realtime)
 // — Simpan sebagai src/App.jsx dalam proyek Vite React
